@@ -19,7 +19,9 @@ return {
         mappings = {
           ['\\'] = 'close_window',
         },
+        position = 'right'
       },
     },
+    close_if_last_window = true,
   },
 }
